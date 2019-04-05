@@ -1,0 +1,26 @@
+Difrenca entre curso e ação/palestra?
+ Gera notas ou algum outro atributo?
+
+Qual a função do Curso, capacitação dos participantes(desenvolvedores) ou se para o cliente assumir a aplicação? ou será para passar conhecimento para a comunicade?
+
+
+Na aba projetos, o campo curso indica qualcaracteristica do Professor?  Onde ´da aula, formação?  
+  seria interessante indicar a formação do professor?
+
+
+Na aba de parcerias , deveriamos guarda os nomes das pessoas a contactar nas instituições/empresas?
+O que é considerado parceiro?
+  São orgãos que participam do desenvolvimento das soluções?
+  São empresas que injetam dinheiro ou propõem projetos?
+  Todo cliente é um parceiro?
+
+na aba projetos
+  O campo entrada faz referencia data em que a pessoa entrou no projeto?
+  O campo ano é a data de inicio e fim do projeto?
+  
+  Nos dados gerais do projeto
+	O campo SELECIONADO significa que o projeto foi selecionado para desenvolvimento ou indica o clico de vida do projeto? ou seria um campo de SIM ou Não?
+
+
+
+

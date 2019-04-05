@@ -1,0 +1,92 @@
+Classes:
+Pessoa
+	nome
+	matricula
+	email
+	telefone
+	tipoPessoa	(contato de empresa, coordenador , aluno, etc)
+	CPF 
+	nContato
+	email
+	instituição
+	tipo_Curso
+	curso (estudante)
+	formação (professor)
+	cargo (tecnico/contatoEmpresa)
+	
+	
+Projetos
+	participante
+	papel_Participante
+	entrada
+	ano
+	nome_Projeto
+	ano_Projeto
+	cliente
+	agencia_De_Fomento
+	parceiros
+	selecionado (?)
+	situação do projeto (em desemvol., em analise, aguardando fomento, etc)
+	
+	
+Palestras
+	nome_Palestra
+	ano_Palestra
+	responsaveis
+	projeto
+	
+Cursos
+	nome_Curso
+	ano_Curso
+	responsaveis
+	projeto
+	
+TCCs
+	titulo
+	ano_TCC
+	nome_orientadores
+	nome_alunos
+	estado
+	projeto
+
+Eventos
+	nome_Evento
+	qtd_Participantes
+
+Artigos
+	titulo_Artigo
+	altores
+	tipo
+	ano_Artigo
+	local/revista
+ICs
+	titulo_IC
+	ano_IC
+	projeto
+	laboratorio
+	
+PIs ?
+	titulo
+	ano_PI
+	alunos
+	orientadores
+
+Pós
+	titulo
+	ano_pos
+	aluno
+	orgao
+	tipo
+
+Parcerias
+	instituição
+	tipo
+	desc
+	local
+
+LEDS
+	unidade
+	ano_LEDS
+	responsavel
+
+
